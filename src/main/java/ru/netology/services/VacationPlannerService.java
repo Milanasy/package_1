@@ -1,5 +1,5 @@
+package ru.netology.services;
 
-package ru.netology.package_1.javaqamvn.services;
 public class VacationPlannerService {
     public int calculateVacationMonths(int income, int expenses, int threshold) {
         int money = 0;
